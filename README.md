@@ -1,7 +1,7 @@
-<h1><img align="left" width="150" height="150" alt="Avishka Shamendra" src="/assets/avatar.png"/></h1>
+<img align="left" width="150" height="150" alt="Avishka Shamendra" src="/assets/avatar.png"/>
 <br>
 <p align="center">
-  <h2>I'm <a href="https://www.linkedin.com/in/avishka-shamendra/">Avishka</a> 👋</h2>
+  ## I'm <a href="https://www.linkedin.com/in/avishka-shamendra/">Avishka</a> 👋
   <br>
   <br>
   A Second-Year Undergraduate at Department of Computer Science and Engineering of University of Moratuwa 👨‍🎓 
@@ -12,7 +12,6 @@
   <br>
   Reach Me <a href="mailto: avishka1998@hotmail.com">avishka1998@hotmail.com</a> 📫
 </p>
-<hr>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
