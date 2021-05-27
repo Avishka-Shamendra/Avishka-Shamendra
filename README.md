@@ -1,14 +1,15 @@
 <p><img align="left" width="150" height="150" alt="Avishka Shamendra" src="/assets/avatar.png"/></p>
 <br>
+<br>
+<br>
+<br>
+<br>
+<h1  align="center"> I'm <a href="https://www.linkedin.com/in/avishka-shamendra/">Avishka</a> 👋 </h1>
 <p align="center">
-  <h1> I'm <a href="https://www.linkedin.com/in/avishka-shamendra/">Avishka</a> 👋 </h1>
-  <br>
   <br>
   A Second-Year Undergraduate at Department of Computer Science and Engineering of University of Moratuwa 👨‍🎓 
   <br>
-  <br>
   Currently working on a cool Flutter App and a React App😄
-  <br>
   <br>
   Reach Me <a href="mailto: avishka1998@hotmail.com">avishka1998@hotmail.com</a> 📫
 </p>
