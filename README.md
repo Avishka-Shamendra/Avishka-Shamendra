@@ -1,7 +1,7 @@
-<img align="left" width="150" height="150" alt="Avishka Shamendra" src="/assets/avatar.png"/>
+<p><img align="left" width="150" height="150" alt="Avishka Shamendra" src="/assets/avatar.png"/></p>
 <br>
 <p align="center">
-  ## I'm <a href="https://www.linkedin.com/in/avishka-shamendra/">Avishka</a> 👋
+  <h1> I'm <a href="https://www.linkedin.com/in/avishka-shamendra/">Avishka</a> 👋 </h1>
   <br>
   <br>
   A Second-Year Undergraduate at Department of Computer Science and Engineering of University of Moratuwa 👨‍🎓 
