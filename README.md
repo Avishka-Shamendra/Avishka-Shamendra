@@ -1,5 +1,5 @@
  
-<p><img align="left" width="100" height="100" alt="Avishka Shamendra" src="/assets/avatar.png"/></p>
+<p><img align="left" width="120" height="120" alt="Avishka Shamendra" src="/assets/avatar.png"/></p>
 <br>
 <br>
 
