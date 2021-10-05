@@ -2,7 +2,7 @@
 <p><img align="left" width="120" height="120" alt="Avishka Shamendra" src="/assets/avatar.png"/></p>
 <br>
 <br>
-
+<br>
 <br>
 <h1  align="center"> I'm <a href="https://www.linkedin.com/in/avishka-shamendra/">Avishka</a> <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">  </h1>
 <p align="center">
