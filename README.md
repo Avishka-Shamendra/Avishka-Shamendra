@@ -32,7 +32,7 @@
 <p align=center>
   <div align=center>
     <a href="" >
-      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=Avishka-Shamendra&theme=dark&border=FFFFFF" alt="zumrudu-anka" />
+      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=Avishka-Shamendra&theme=dark&border_color=FFFFFF" alt="zumrudu-anka" />
     </a>
     <a href="">
       <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=Avishka-Shamendra&count_private=true&hide=stars&show_icons=true&theme=dark&border_color=FFFFFF" />
