@@ -9,7 +9,7 @@
   <br>
   A Third-Year Undergraduate at Department of Computer Science & Engineering at University of Moratuwa, Sri Lanka 👨‍🎓 
   <br>
-  Currently working on a cool Inventory Management System😄
+  Currently working as a Software Engineering Intern at WSO2😄
   <br>
   Reach Me 📫
  <br>
