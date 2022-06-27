@@ -4,7 +4,7 @@
 <br>
 <br>
 <br>
-<h1  align="center"> I'm <a href="https://www.linkedin.com/in/avishka-shamendra/">Avishka</a> <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">  </h1>
+<h1  align="center"> I'm <a href="https://www.linkedin.com/in/avishka-shamendra/">Avishka</a> <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" height="50px" width="20px" alt="hi">  </h1>
 <p align="center">
   <br>
   A Third-Year Undergraduate at Department of Computer Science & Engineering at University of Moratuwa, Sri Lanka 👨‍🎓 
@@ -17,7 +17,7 @@
  <a href=https://www.linkedin.com/in/avishka-shamendra/><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 <div align=center>
-  <h4>Some langugaes,frameworks and libraries I :heart:</h4>
+  <h4>Some languages,frameworks and libraries I :heart:</h4>
   <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
   <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
