@@ -6,14 +6,11 @@
 <br>
 <h1  align="center"> I'm <a href="https://www.linkedin.com/in/avishka-shamendra/">Avishka</a> <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" height="30px" width="30px" alt="hi">  </h1>
 <p align="center">
-  <br>
-  A Final Year Undergraduate at Department of Computer Science & Engineering at University of Moratuwa, Sri Lanka 👨‍🎓 
-  <br>
-  Former Software Engineering Intern at WSO2
+  Software Engineer at WSO2 | CSE Graduate from University of Moratuwa
   <br>
   Reach Me 📫
  <br>
- <a href="mailto:avishkas.18@cse.mrt.ac.lk"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
+ <a href="mailto:avishka98official@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
  <a href=https://www.linkedin.com/in/avishka-shamendra/><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 <div align=center>
