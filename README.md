@@ -6,7 +6,7 @@
 <br>
 <h1  align="center"> I'm <a href="https://www.linkedin.com/in/avishka-shamendra/">Avishka</a> <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" height="30px" width="30px" alt="hi">  </h1>
 <p align="center">
-  Senior Software Engineer at WSO2 | CSE Graduate from University of Moratuwa
+  PhD  Student at Stony Brook University | Former Senior Software Engineer at WSO2 | CSE Graduate from University of Moratuwa
   <br>
   Reach Me 📫
  <br>
